@@ -1,15 +1,18 @@
-{
-  "name": "KING-SPAM-BOT",
-  "description": "A POWERFULL AND STABLE SPAM BOT.",
-  "logo": "https://te.legra.ph/file/b235bfbe9220e5a2f30ea.jpg",
+  "name": "YUKKI SPAM USERBOT",
+  "description": "A Powerful Telegram Spam Userbot.",
+  "logo": "https://telegra.ph/file/bf6f67d9f1f1106ca4dce.jpg",
   "keywords": [
     "spambot",
     "telegram",
     "userbot"
-    "VIVEKRAJROYOFFICIAL"
   ],
     "env": {
       "STRING": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "API_ID": {
         "description": "Telethon String Session",
         "value": "",
         "required": true
@@ -59,63 +62,8 @@
         "value": "",
         "required": false
       },
-      "STRING11": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "STRING12": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "STRING13": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "STRING14": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "STRING15": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "STRING16": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "STRING17": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "STRING18": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "STRING19": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "STRING20": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "API_ID": {
-        "description": "your app id ",
-        "value": "",
-        "required": true
-      },
       "API_HASH": {
-        "description": "your Api Hash",
+        "description": "Api Hash",
         "value": "",
         "required": true
       },
@@ -123,12 +71,6 @@
         "description": "Sudo Users Id",
         "value": "",
         "required": true
-      }
-      "USERNAME": {
-        "description": " OWNER USERNAME WITHOUT @",
-        "value": "VIVEKRAJROY" ,
-        "required": true
-        
       }
   },
   "addons": [{
