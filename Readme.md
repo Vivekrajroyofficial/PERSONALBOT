@@ -1,7 +1,7 @@
-# Yukki Multi Spam Bot 
+
 
 <p align="center">
-  <img src="https://telegra.ph/file/9daafeb39193a4a22ee5c.jpg">
+  <img src="">
 </p>
 
 ## 🚀 Deploy on Heroku 
@@ -17,6 +17,6 @@ No Requirement of API ID and API HASH
 
 
 ## Support Group
-   - Join [Yukki Support Group](https://t.me/officialyukki) for any assistance.
+   - Join [ Support Group](https://t.me/officialyukki) for any assistance.
 ## Credits
-   - Thanks to [Yukki Team](https://t.me/officialyukki).
+   - Thanks to [Team](https://t.me/officialyukki).
