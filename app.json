@@ -1,18 +1,18 @@
-  "name": "YUKKI SPAM USERBOT",
-  "description": "A Powerful Telegram Spam Userbot.",
-  "logo": "https://telegra.ph/file/bf6f67d9f1f1106ca4dce.jpg",
+{
+  "name": "RDX MULTI SPAM BOT",
+  "description": "A POWERFULL AND FAST SPAM BOT BY RDX.",
+  "logo": "https://telegra.ph/file/c6d5a3802c0f0a7061a34.jpg",
   "keywords": [
     "spambot",
     "telegram",
-    "userbot"
+    "userbot",
+    "Unknown-for-all",
+    "Rdx-spam-bot-telegram",
+    "rdx-bot",
+    "telegram-bot"
   ],
     "env": {
       "STRING": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "API_ID": {
         "description": "Telethon String Session",
         "value": "",
         "required": true
@@ -62,14 +62,179 @@
         "value": "",
         "required": false
       },
+      "STRING11": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING12": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING13": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING14": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING15": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING16": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING17": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING18": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING19": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING20": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING21": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING22": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING23": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING24": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING25": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING26": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": true
+      },
+      "STRING27": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING28": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING29": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING30": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING31": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING32": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING33": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING34": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING35": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING36": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING37": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING38": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING39": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING40": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "USERNAME": {
+        "description": "AAA GYA YAHA USERNAME DALO BINA @ LIKE SIDDHANT_DEVIL",
+        "value": "SIDDHANT_DEVIL",
+        "required": false
+      },
+      "ALIVE_NAME": {
+        "description": "AA GYA HAI AB APNA NAME DALO YAHA JAISE NICHE H ",
+        "value": "𝐒𝐈𝐃𝐃𝐇𝐀𝐍𝐓 𝐎𝐏",
+        "required": false
+      },
+      "API_ID": {
+        "description": "APP ID DALO BHAI",
+        "value": "",
+        "required": true
+      },
       "API_HASH": {
-        "description": "Api Hash",
+        "description": "API HAS DALO YARR",
         "value": "",
         "required": true
       },
       "SUDO": {
-        "description": "Sudo Users Id",
-        "value": "",
+        "description": "SUDO USERS ID MERA BHI DAL LENA ACHHA HU DIL KA ",
+        "value": "1666692415",
         "required": true
       }
   },
