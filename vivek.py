@@ -24,7 +24,7 @@ import telethon.utils
 from telethon.tl import functions
 from telethon.tl.functions.channels import LeaveChannelRequest
 from telethon.tl.functions.messages import ImportChatInviteRequest
-from Utils import RAID, RRAID, MRAID, SRAID, CRAID, PORNSPAM
+from Utils import RAID, RRAID, SRAID, CRAID, PORNSPAM
 
 
 a = API_ID
